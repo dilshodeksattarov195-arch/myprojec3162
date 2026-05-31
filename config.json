@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsrocess",
+        "uuid": 7671012,
+        "checksum": "z1g9tf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
